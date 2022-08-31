@@ -6,7 +6,7 @@ pipeline {
         lambdaName      = "GetStartedLambdaProxyIntegration"
         lambdaFileName  = "*.js"
         lambdaRuntime   = "nodejs16.x"
-        accountID       = "AKIA2O3C5XTLPPYP6ZOF"
+        accountID       = "719077620950"
         dynamoTable     = "HelloWorldTable"
     }
 
